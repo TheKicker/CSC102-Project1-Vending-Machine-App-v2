@@ -1,0 +1,30 @@
+C:\Users\Cav\Documents\Vending Machine\Vending Machine App\Vending Machine App\bin\Debug\Vending Machine App.exe.config
+E:\Vending Machine\Vending Machine App\Vending Machine App\bin\Debug\Vending Machine App.exe.config
+E:\Vending Machine\Vending Machine App\Vending Machine App\bin\Debug\Vending Machine App.exe
+E:\Vending Machine\Vending Machine App\Vending Machine App\bin\Debug\Vending Machine App.pdb
+E:\Vending Machine\Vending Machine App\Vending Machine App\obj\Debug\Vending Machine App.csprojResolveAssemblyReference.cache
+E:\Vending Machine\Vending Machine App\Vending Machine App\obj\Debug\Vending_Machine_App.Form1.resources
+E:\Vending Machine\Vending Machine App\Vending Machine App\obj\Debug\Vending_Machine_App.Properties.Resources.resources
+E:\Vending Machine\Vending Machine App\Vending Machine App\obj\Debug\Vending Machine App.csproj.GenerateResource.Cache
+E:\Vending Machine\Vending Machine App\Vending Machine App\obj\Debug\Vending Machine App.exe
+E:\Vending Machine\Vending Machine App\Vending Machine App\obj\Debug\Vending Machine App.pdb
+E:\Geneva College\2016 Junior Year\CSC 101 Structured Programming\Proj 02 Vending Machine\Vending Machine App\Vending Machine App\bin\Debug\Vending Machine App.exe.config
+E:\Geneva College\2016 Junior Year\CSC 101 Structured Programming\Proj 02 Vending Machine\Vending Machine App\Vending Machine App\bin\Debug\Vending Machine App.exe
+E:\Geneva College\2016 Junior Year\CSC 101 Structured Programming\Proj 02 Vending Machine\Vending Machine App\Vending Machine App\bin\Debug\Vending Machine App.pdb
+E:\Geneva College\2016 Junior Year\CSC 101 Structured Programming\Proj 02 Vending Machine\Vending Machine App\Vending Machine App\obj\Debug\Vending Machine App.csprojResolveAssemblyReference.cache
+E:\Geneva College\2016 Junior Year\CSC 101 Structured Programming\Proj 02 Vending Machine\Vending Machine App\Vending Machine App\obj\Debug\Vending_Machine_App.Form1.resources
+E:\Geneva College\2016 Junior Year\CSC 101 Structured Programming\Proj 02 Vending Machine\Vending Machine App\Vending Machine App\obj\Debug\Vending_Machine_App.Properties.Resources.resources
+E:\Geneva College\2016 Junior Year\CSC 101 Structured Programming\Proj 02 Vending Machine\Vending Machine App\Vending Machine App\obj\Debug\Vending Machine App.csproj.GenerateResource.Cache
+E:\Geneva College\2016 Junior Year\CSC 101 Structured Programming\Proj 02 Vending Machine\Vending Machine App\Vending Machine App\obj\Debug\Vending Machine App.csproj.CoreCompileInputs.cache
+E:\Geneva College\2016 Junior Year\CSC 101 Structured Programming\Proj 02 Vending Machine\Vending Machine App\Vending Machine App\obj\Debug\Vending Machine App.exe
+E:\Geneva College\2016 Junior Year\CSC 101 Structured Programming\Proj 02 Vending Machine\Vending Machine App\Vending Machine App\obj\Debug\Vending Machine App.pdb
+H:\Geneva College\2016 Junior Year\CSC 101 Structured Programming\Proj 02 Vending Machine\Vending Machine App\Vending Machine App\bin\Debug\Vending Machine App.exe.config
+H:\Geneva College\2016 Junior Year\CSC 101 Structured Programming\Proj 02 Vending Machine\Vending Machine App\Vending Machine App\obj\Debug\Vending Machine App.exe
+H:\Geneva College\2016 Junior Year\CSC 101 Structured Programming\Proj 02 Vending Machine\Vending Machine App\Vending Machine App\obj\Debug\Vending Machine App.pdb
+H:\Geneva College\2016 Junior Year\CSC 101 Structured Programming\Proj 02 Vending Machine\Vending Machine App\Vending Machine App\bin\Debug\Vending Machine App.exe
+H:\Geneva College\2016 Junior Year\CSC 101 Structured Programming\Proj 02 Vending Machine\Vending Machine App\Vending Machine App\bin\Debug\Vending Machine App.pdb
+H:\Geneva College\2016 Junior Year\CSC 101 Structured Programming\Proj 02 Vending Machine\Vending Machine App\Vending Machine App\obj\Debug\Vending Machine App.csprojResolveAssemblyReference.cache
+H:\Geneva College\2016 Junior Year\CSC 101 Structured Programming\Proj 02 Vending Machine\Vending Machine App\Vending Machine App\obj\Debug\Vending_Machine_App.Form1.resources
+H:\Geneva College\2016 Junior Year\CSC 101 Structured Programming\Proj 02 Vending Machine\Vending Machine App\Vending Machine App\obj\Debug\Vending_Machine_App.Form2.resources
+H:\Geneva College\2016 Junior Year\CSC 101 Structured Programming\Proj 02 Vending Machine\Vending Machine App\Vending Machine App\obj\Debug\Vending_Machine_App.Properties.Resources.resources
+H:\Geneva College\2016 Junior Year\CSC 101 Structured Programming\Proj 02 Vending Machine\Vending Machine App\Vending Machine App\obj\Debug\Vending Machine App.csproj.GenerateResource.Cache

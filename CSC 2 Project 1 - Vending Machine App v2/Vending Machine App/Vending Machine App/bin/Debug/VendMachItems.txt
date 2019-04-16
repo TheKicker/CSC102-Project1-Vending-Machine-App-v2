@@ -1,0 +1,16 @@
+Sprite, 5, 1.00
+Pepsi, 5, 1.25
+CocaCola, 5, 1.25
+Gum, 5, 0.50
+Lemonade, 5, 1.10
+Tea, 5, 1.10
+Water, 5, 0.95
+Warheads, 5, 1.15
+MandM, 5, 0.90
+Skittles, 5, 1.00
+Snickers, 5, 1.00
+Twix, 5, 0.95
+Lays, 5, 2.00
+SaltandVinegar, 5, 2.50
+Pickle, 5, 2.25
+Doritos, 5, 2.50

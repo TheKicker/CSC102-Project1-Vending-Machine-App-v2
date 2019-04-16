@@ -1,0 +1,15 @@
+Sprite, 5, 1.00m
+Pepsi, 5, 1.25m
+CocaCola, 5, 1.25m
+Gum, 5, 0.50m
+Lemonade, 5, 1.10m
+Tea, 5, 1.10m
+Water, 5, 0.95m
+MandM, 5, 0.90m
+Skittles, 5, 1.00m
+Snickers, 5, 1.00m
+Twix, 5, 0.95m
+Lays, 5, 2.00m
+SaltandVinegar, 5, 2.50m
+Pickle, 5, 2.25m
+Doritos, 5, 2.50m
